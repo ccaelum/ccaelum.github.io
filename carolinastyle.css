@@ -1,11 +1,11 @@
 :root 
 {
-	softblue:#9EFFEF;
+	--softblue:#9EFFEF;
 }
 
 body 
 {
-	background-color: var(softblue);
+	background-color: var(--softblue);
 }
 
 h1 
